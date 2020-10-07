@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "122128067555",
+    "firebase_url": "https://thingy-temperature.firebaseio.com",
+    "project_id": "thingy-temperature",
+    "storage_bucket": "thingy-temperature.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122128067555:android:3bd24cfc4c11d7e265ced6",
+        "android_client_info": {
+          "package_name": "no.nordicsemi.android.nrfthingy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122128067555-hronv7u2cju94q7b4h91jvc2ml6lsbeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOkYxKcDW_iWOtBC6ECGtWwoRi8WOTay4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122128067555-hronv7u2cju94q7b4h91jvc2ml6lsbeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
